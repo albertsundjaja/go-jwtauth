@@ -3,7 +3,6 @@ MIT License
 
 A wrapper for authenticating [Julien Schmidt's router](https://github.com/julienschmidt/httprouter) with jwt
 
-THIS IS A WORK IN PROGRESS
 
 ## Installation
 `go get -u github.com/albertsundjaja/go-jwtauth`
